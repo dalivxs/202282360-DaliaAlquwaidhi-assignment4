@@ -1,13 +1,14 @@
-# Technical Documentation – Assignment 3
+# Technical Documentation – Assignment 4
 
 ## Overview
-This project is an enhanced version of a responsive personal portfolio website developed using HTML, CSS, and JavaScript. It includes advanced interactivity, API integration, complex logic, and state management to create a more dynamic and user-friendly web application.
+This project is the final version of a responsive personal portfolio web application developed using HTML, CSS, and JavaScript. It combines all features from previous assignments into a complete, polished, and fully deployed application. The project demonstrates API integration, complex logic, state management, and a professional user experience.
 
 ## Technologies Used
 - HTML5 – Structure and semantic layout
 - CSS3 – Styling, layout, responsive design, and transitions
 - JavaScript – Interactivity, API integration, logic handling, and state management
 - GitHub API – Fetching and displaying real-time repository data
+- GitHub Pages – Deployment and hosting of the live website
 
 ## Website Structure
 
@@ -17,6 +18,7 @@ Contains the main structure of the website:
 - Hero section with dynamic greeting
 - Visitor name section (state management feature)
 - About section
+- Personal Highlights section (represents user personality and interests)
 - Projects section (with search, filter, and sorting features)
 - GitHub repositories section (API integration)
 - Contact form
@@ -61,15 +63,23 @@ State is managed using localStorage:
 - Theme preference (dark/light mode)
 - Visitor name (saved and displayed across sessions)
 
-This ensures a consistent user experience even after refreshing the page.
+This ensures a consistent and personalized user experience.
+
+## Deployment
+The website is deployed using GitHub Pages:
+- Provides a live, publicly accessible version of the application
+- Allows testing and demonstration across devices and browsers
+
+## Innovation
+A Personal Highlights section was added to represent the developer’s identity, interests, and skills. This enhances the uniqueness of the portfolio and makes it more engaging and personalized.
 
 ## Limitations
 - The contact form does not send data to a server (front-end only)
 - API depends on internet connection and GitHub availability
-- Project images and some links are placeholders
+- Some project links and images are placeholders
 
 ## Future Improvements
 - Connect the contact form to a backend service
-- Improve UI design and animations
-- Add more dynamic data sources (e.g., other APIs)
-- Enhance filtering and sorting features
+- Improve UI design and add more animations
+- Add additional APIs for more dynamic content
+- Enhance personalization features and user interaction
