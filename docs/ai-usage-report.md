@@ -1,37 +1,38 @@
-# AI Usage Report – Assignment 3
+# AI Usage Report – Assignment 4
 
 ## AI Tool Used
 - ChatGPT (OpenAI)
 
 ## How AI Was Used
-AI was used as a support tool to implement and enhance my Assignment 3 project. It helped with:
-- Integrating a public API (GitHub API) to fetch and display repositories
-- Implementing complex logic such as search, filtering, sorting, and project level selection
-- Adding state management using localStorage (theme toggle and visitor name)
-- Creating a timer to track how long a user stays on the website
-- Improving JavaScript logic for form validation and user interaction
-- Assisting with structuring and organizing the code
+AI was used as a support tool to complete and polish my Assignment 4 web application. It helped with:
+- Refining and improving the overall portfolio structure and design
+- Enhancing existing features from previous assignments (search, sorting, filtering, and API integration)
+- Adding a personalized section (Personal Highlights) to better represent me
+- Improving state management features such as theme toggle and visitor name storage
+- Assisting with deployment using GitHub Pages
+- Supporting documentation writing (README and technical documentation)
+- Helping prepare the presentation structure and explanation
 
-The core implementation and customization were completed manually.
+The core implementation, testing, and customization were completed manually.
 
 ## Benefits of Using AI
-- Helped generate ideas for advanced interactive features
-- Improved code organization and clarity
-- Saved time during debugging and implementation
-- Simplified understanding of API integration and complex logic
+- Helped improve the quality and professionalism of the final project
+- Provided guidance for refining features and improving user experience
+- Saved time during debugging and final adjustments
+- Helped organize ideas for presentation and documentation
 
 ## Challenges & Limitations
-- Some suggestions required modification to match assignment requirements
+- Some suggestions required modification to fit assignment requirements
 - AI-generated solutions were not always directly usable
-- I needed to test and adjust the code to ensure it worked correctly
-- Certain features (like API and localStorage) required debugging
+- I needed to test and adjust the code to ensure everything worked correctly
+- Certain features required additional debugging before functioning properly
 
 ## Learning Outcomes
-- Better understanding of API integration using fetch
-- Improved skills in implementing complex logic and conditions
-- Learned how to manage state using localStorage
-- Improved skills in handling user input and validation
-- Gained experience combining multiple interactive features in one application
+- Improved ability to build a complete and polished web application
+- Gained experience in refining and optimizing existing features
+- Better understanding of combining multiple concepts (API, logic, state management) into one system
+- Improved problem-solving and debugging skills
+- Learned how to present and structure a technical project professionally
 
 ## Responsible Use & Modifications
 - All AI-generated suggestions were reviewed, modified, and tested
